@@ -5,5 +5,6 @@ public class test {
         System.out.println("github3");
         System.out.println("github4");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
